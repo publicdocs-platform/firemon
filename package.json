@@ -74,7 +74,7 @@
     "rimraf": "^3.0.2",
     "serve-index": "^1.9.1",
     "sharp": "^0.23.2",
-    "snyk": "^1.324.0",
+    "snyk": "^1.660.0",
     "sprintf-js": "^1.1.1",
     "staticmaps": "https://github.com/publicdocs-platform/staticmaps#zoom-steps",
     "title-case": "^2.1.1",
